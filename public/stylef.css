@@ -1,0 +1,98 @@
+h1{
+    color: blueviolet;
+}
+fieldset{
+    background-color: blueviolet;
+    
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
+#t{
+    color: green;
+}
+p{
+    color: white;
+}
+h3{
+    
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: white;
+}
+#main{
+    background-color:#F4A460	; 
+    font-size: xx-large;
+    border: inset;
+    border-radius: 6px;
+    
+}
+
+
+.purple{
+    color: blueviolet;
+    font-size: 35px;
+}
+a{
+    font-size: 35px;
+}
+margin-top: -250px;
+    div{
+        margin-top: -250px;
+        background-color: blueviolet;
+        border: rgb(2, 2, 131);
+        border-style: double;
+        color:#FFF;
+        padding: 10px;
+    }
+
+table{
+    background-color: b;
+}
+
+input{border-radius: 6px;
+}
+textarea{
+    border-radius: 6px;
+}
+#but {
+    background-color: #7c677f;
+        border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  #reset {
+    background-color: #39a0ca;
+        border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  #intro{
+    border-style:groove;
+    text-shadow: azure;
+    padding: 50px;
+    background-color: #B0C4DE;
+    text-color: white;
+  }
+  
+  
+  
